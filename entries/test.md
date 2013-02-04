@@ -7,7 +7,7 @@
 + テストですよー２
 + テストですよー３
 
-~~~.java
+~~~.bash
 class Hello {
  def main(args : Array[]) : void {
 }
