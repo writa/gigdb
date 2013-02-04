@@ -1,3 +1,3 @@
 # 見出しですよー
-puts bash
+puts 'bash'
 **テストですよー**
