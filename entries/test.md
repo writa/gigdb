@@ -6,3 +6,9 @@
 + テストですよー1
 + テストですよー２
 + テストですよー３
+
+~~~
+class Hello {
+ def main(args : Array[]) : void {
+}
+~~~
